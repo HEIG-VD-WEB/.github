@@ -69,6 +69,7 @@ There will be 16 theory sessions:
     - If something goes wrong with my course or others. If you experience objectionable/hateful behavior, please contact me as soon as possible.
 	- **Introduction to the web**
 	- **HTML & CSS, javascript**
+	- **Devcontainer, NPM, Node.js**
 	- **Typescript**
 	- **linter, formatter, prettier, eslint, stylelint**
 	- **Testing*, Unit testing, Integration testing, E2E testing**
@@ -79,6 +80,8 @@ There will be 16 theory sessions:
 	- **REST & Security, CORS, XSS, CSRF**
 	- **Frontend frameworks, jQuery, Vue.js, React, Nuxt.js, Next.js**
 	- **React essentials, Material UI, Tailwind CSS, react router**
+	- **Backend frameworks, Express, Nest.js**
+	- **PNPM**
 	- **ORM, prisma, sequelize**
 
 # Practice courses
