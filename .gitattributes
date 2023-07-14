@@ -1,0 +1,4 @@
+## .gitattributes - https://rehansaeed.com/gitattributes-best-practices/
+
+# Set default behavior to automatically normalize line endings.
+* text=auto eol=lf
